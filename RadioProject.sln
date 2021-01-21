@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioProject.Entities", "RadioProject.Entities\RadioProject.Entities.csproj", "{CADBFC28-2CD1-42F8-A629-7F36987FEE33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioProject.DataAccess", "RadioProject.DataAccess\RadioProject.DataAccess.csproj", "{308E240E-97DA-426D-B027-10158C91AA43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioProject.Business", "RadioProject.Business\RadioProject.Business.csproj", "{4062B009-DB08-4A3D-A54E-E6464EC97E8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioProject.ConsoleApp", "RadioProject.ConsoleApp\RadioProject.ConsoleApp.csproj", "{CE07D2AA-1D71-4E46-AF84-32E8BBFC546D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CADBFC28-2CD1-42F8-A629-7F36987FEE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADBFC28-2CD1-42F8-A629-7F36987FEE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADBFC28-2CD1-42F8-A629-7F36987FEE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADBFC28-2CD1-42F8-A629-7F36987FEE33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{308E240E-97DA-426D-B027-10158C91AA43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{308E240E-97DA-426D-B027-10158C91AA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{308E240E-97DA-426D-B027-10158C91AA43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{308E240E-97DA-426D-B027-10158C91AA43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4062B009-DB08-4A3D-A54E-E6464EC97E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4062B009-DB08-4A3D-A54E-E6464EC97E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4062B009-DB08-4A3D-A54E-E6464EC97E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4062B009-DB08-4A3D-A54E-E6464EC97E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE07D2AA-1D71-4E46-AF84-32E8BBFC546D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE07D2AA-1D71-4E46-AF84-32E8BBFC546D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE07D2AA-1D71-4E46-AF84-32E8BBFC546D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE07D2AA-1D71-4E46-AF84-32E8BBFC546D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBBDD495-178F-4B77-AD29-1E92A0CE3079}
+	EndGlobalSection
+EndGlobal
